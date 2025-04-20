@@ -483,7 +483,7 @@ export default function Home() {
 >
   <p className="flex justify-center items-center gap-2">
     <Mail className="w-4 h-4" /> 
-    Email: <a href="mailto:ellasitiaisyah@email.com" className="underline hover:text-pink-500 dark:hover:text-pink-400 transition">marsa@email.com</a>
+    Email: <a href="mailto:ellasitiaisyah@email.com" className="underline hover:text-pink-500 dark:hover:text-pink-400 transition">estasyah@email.com</a>
   </p>
   <p className="flex justify-center items-center gap-2">
     <Phone className="w-4 h-4" /> 
